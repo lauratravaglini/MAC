@@ -63,9 +63,7 @@ Here are our personas:
 
 1. Chiara, a digital-native local student in her teens.
 
-![Emma, a scholar in her 30s. She is looking for new perspectives on the Samnites’ culture. Being a researcher, her technological skills are above average;](https://lh4.googleusercontent.com/X2J63orXQ--CwMlDSzb1SNB-e7UAF7enFfo9VSe80A3e55ED7h8-d0hpbd7-fW4Eg49BeBUppL-2lCH0i7CGnblaKyYlKKUEwIF5N0C4kPoQF6kFoH5sBTWRm9VFXg)
-
-Alfonso, a middle-aged archeology enthusiast. He’s an intermittent/casual user, someone who uses technology daily, but never becomes an expert;
+![Emma, a scholar in her 30s. She is looking for new perspectives on the Samnites’ culture. Being a researcher, her technological skills are above averageAlfonso, a middle-aged archeology enthusiast. He’s an intermittent/casual user, someone who uses technology daily, but never becomes an expert;](https://lh4.googleusercontent.com/X2J63orXQ--CwMlDSzb1SNB-e7UAF7enFfo9VSe80A3e55ED7h8-d0hpbd7-fW4Eg49BeBUppL-2lCH0i7CGnblaKyYlKKUEwIF5N0C4kPoQF6kFoH5sBTWRm9VFXg)
 
 Gennaro, a novice user in his 60s, not particularly skilled with technology.
 
