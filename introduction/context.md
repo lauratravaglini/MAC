@@ -53,7 +53,7 @@ The monumentality of these tombs — along with the luxurious grave goods archae
 
 The third space is dedicated to the excavation of an artisan complex intended for the production of bricks and ceramics, active between the **late Republican age and the Imperial age** (I BCE). This room is also used as an educational space, enriched by the presence of the **1:1 scale reconstruction of the chamber tomb number 7** (IV century BCE), one of the monumental burials discovered in the archaeological area of ​​the Addolorata.
 
-### Exhibition and curatorial rationale.&#x20;
+## Exhibition and curatorial rationale.&#x20;
 
 > <mark style="background-color:yellow;">«Currently, the exhibition itself is not sufficiently informative, being the late outcome of an old project. »</mark>&#x20;
 
@@ -78,7 +78,7 @@ Despite its historical relevance, **bureaucratic matters** make actual access to
 
 as Mr. Castaldo puts it.
 
-### The visitors.&#x20;
+## The visitors.&#x20;
 
 > <mark style="background-color:yellow;">«Most of the visitors are school students: in addition, local history enthusiasts come to the Museum. »</mark>&#x20;
 
