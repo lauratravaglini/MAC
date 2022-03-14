@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/DSCF9214.JPG
+cover: ../.gitbook/assets/DSCF9214.JPG
 coverY: 0
 ---
 
@@ -17,9 +17,9 @@ In order to better understand the MAC, its history, vision, and organisation we 
 
 **Carife** is a village in Campania (Southern Italy): it lies 30 km away from its province’s capital (Avellino), in the historical and geographical area known as **Baronia**, whose territory stretches across the Apennine watershed line, between the upper and middle valley of the river Ufita.
 
-After several archaeological excavation campaigns carried out in this area, a large amount of remains have been brought to light. These finds bear witness of human presence which go back to the ancient **Neolithic**, up to the **Roman conquest** of the area (III BC) and beyond (**Hellenistic and Byzantine ages**). Of course, the dense and continuous population has been favoured by its geographical position, by the proximity to the Ufita River and its flourishing valley.
+![](<../.gitbook/assets/Schermata 2022-03-14 alle 16.47.05 (1).png>)
 
-![](https://lh6.googleusercontent.com/wjvRo7Z2KGWj1mp8GoQ1ZqU018J5ApE1brKOuJe5gv8GiMqmM\_HIii0NfswnFZjMpGO6PexbV\_uyANbekXw9MIEs5pIOFbWlHJE-p60UqTg-865UypeMl1a-eQ\_5kXpDH0QLjE4P)
+After several archaeological excavation campaigns carried out in this area, a large amount of remains have been brought to light. These finds bear witness of human presence which go back to the ancient **Neolithic**, up to the **Roman conquest** of the area (III BC) and beyond (**Hellenistic and Byzantine ages**). Of course, the dense and continuous population has been favoured by its geographical position, by the proximity to the Ufita River and its flourishing valley.
 
 ## The museum
 
