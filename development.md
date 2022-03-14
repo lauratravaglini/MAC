@@ -23,11 +23,7 @@ We made use of two tools:&#x20;
 
 The following diagram resumes what we have just exposed about the app’s structure and  describes the **users’ interaction** with it, how they will approach it and what they will be able to do.
 
-![](<.gitbook/assets/Slide 16\_9 - 7.jpg>)
-
-## The interactive guide.
-
-Now that we have outlined a general overview of the MAC App, we will discuss the main focus of our design: the **interactive guide**.&#x20;
+![The interactive guide.Now that we have outlined a general overview of the MAC App, we will discuss the main focus of our design: the interactive guide. ](<.gitbook/assets/Slide 16\_9 - 7.jpg>)
 
 * As we have just shown, when the users choose this type of guide over the traditional one, **three symbols** will be displayed: without further explanation, blindly, one must be picked. That's where the fun begins.
 * Once they click on it, depending on the chosen symbol, an **avatar** will appear and their path will start.&#x20;

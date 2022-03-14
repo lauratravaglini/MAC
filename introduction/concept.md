@@ -2,9 +2,9 @@
 
 To have a clearer overview of all the information gathered through the interview and before proceeding with our project — still in this very early stage of our workflow — we exploited a set of tools to help us in the design process.
 
-![](<../.gitbook/assets/Slide 16\_9 - 6.png>)
+![](../.gitbook/assets/fhcgjjkhb.png)
 
-## Ideation cards.
+## **Ideation cards.**
 
 As a first step, we decided to work on our context by making use of ideation cards, identifying — on the basis of our interview and research — the **MAC’s key audiences, its assets, and goals**.
 
