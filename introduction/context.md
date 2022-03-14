@@ -23,7 +23,7 @@ After several archaeological excavation campaigns carried out in this area, a la
 
 ## The museum
 
-> <mark style="background-color:yellow;">« The Museum tells the story of Baronia between the</mark> <mark style="background-color:yellow;">**VI and IV century BC**</mark><mark style="background-color:yellow;">, with the findings of the Roman villa expanding this chronological arch to the Roman age (2nd to 1st century). »</mark>
+> <mark style="background-color:yellow;">«The Museum tells the history of Baronia between the</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**VI and IV century BCE**</mark><mark style="background-color:yellow;">. The findings of the Roman villa expand this timeframe to the</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**Roman age**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">(II to I century BCE).»</mark>
 
 The museum’s origins date back to the 1980s, when **Werner Johannowsky** — an archaeologist of Austrian-Swiss origins[\[^1\]](context.md#footnotes.) — and his collaborators led a series of archaeological missions in Samnium and Irpinia. During one of these expeditions, a necropolis was uncovered between the municipalities of Castel Baronia and Carife.
 
@@ -33,13 +33,13 @@ Today, its three rooms host the rich ceramics and precious grave goods coming fr
 
 ### Room one.
 
-> <mark style="background-color:yellow;">«The VI century BC is the heyday of Greek civilization: in this period, the Greek Cuma rises to the peak of its power and comes into conflict with the Etruscan Capua: in this very area (scil. Baronia), political relations between the Tyrrhenian and the Adriatic coasts take place. It is by the end of this century that the Samnite people form and their identity clearly takes shape. »</mark>
+> <mark style="background-color:yellow;">« All throughout the VI century BCE, Baronia was a crossroad of political and economic relations between the Tyrrhenian and the Adriatic coasts. By the end of this century the Samnite ethnos was born. »</mark>
 
 Room I exhibits findings from the **Castel Baronia Necropolis**, the most ancient one (VI century BCE): these remains — including some beautiful, early local ceramics and weapons— witness the birth and development of the Samnite ethnos.
 
 ### Room two.
 
-> <mark style="background-color:yellow;">«The necropolises in today’s Carife witness the moment of greater economic and political power of this territory: the</mark> <mark style="background-color:yellow;">**IV century.**</mark> <mark style="background-color:yellow;">In this period, Hirpini encountered Romans and the two initially engaged in commercial relationships. Later, conflicts arose which led to the conquest of the peninsula by the Romans.»</mark>
+> <mark style="background-color:yellow;">«The two necropolises found in Carife witness a moment of great economic and political power: the IV century BCE. It was then that the Saminites came in contact with the Romans: after engaging in pacific commercial relationships, the two civilizations eventually came up against each other. The resulting conflict ultimately led to the Roman conquest of the area.»</mark>
 
 The second room houses archaeological findings from two necropolises in Carife: in particular, they were unearthed in the localities of **Piano La Sala** and **Addolorata**, after which they are named.
 
@@ -51,13 +51,13 @@ The monumentality of these tombs — along with the luxurious grave goods archae
 
 ### Room three.
 
-> <mark style="background-color:yellow;">«Archaeological evidence testifies to the disappearance of the Hirpinian civilization: furnaces of the Roman age have been found that tell us about the moment in which</mark> <mark style="background-color:yellow;">**Irpinia became Roman**</mark><mark style="background-color:yellow;">.»</mark>
+> <mark style="background-color:yellow;">«Archaeological evidence testifies to the disappearance of the Hirpinian civilization: the Roman furnaces tell us about the moment in which</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**Irpinia became Roman.**</mark><mark style="background-color:yellow;">»</mark>
 
 The third space is dedicated to the excavation of an artisan complex intended for the production of bricks and ceramics, active between the **late Republican age and the Imperial age** (I BCE). This room is also used as an educational space, enriched by the presence of the **1:1 scale reconstruction of the chamber tomb number 7** (IV century BCE), one of the monumental burials discovered in the archaeological area of ​​the Addolorata.
 
 ## Exhibition and curatorial rationale.
 
-> <mark style="background-color:yellow;">«Currently, the exhibition itself is not sufficiently informative, being the late outcome of an old project. »</mark>
+> <mark style="background-color:yellow;">«Currently the exhibition is not sufficiently informative: it is the late outcome of an old project.»</mark>
 
 As the reader may have figured out, findings are showcased and organised according to:
 
