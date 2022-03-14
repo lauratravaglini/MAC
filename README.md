@@ -5,7 +5,7 @@ coverY: -1056.5338276181649
 
 # INTRODUCTION
 
-This paper presents the <mark style="background-color:yellow;">**MAC App**</mark>, an application designed for an italian archaeological museum in the Avellino province, the **Museo Archeologico Carife**.&#x20;
+This paper presents the <mark style="color:yellow;">**MAC App**</mark>, an application designed for an italian archaeological museum in the Avellino province, the **Museo Archeologico Carife**.&#x20;
 
 Since the application was intended to be specifically tailored to this museum, a thorough **investigation** about the MAC’s history, location, holdings, assets, weaknesses, and ambitions preceded the actual design process.&#x20;
 
