@@ -66,6 +66,8 @@ In addition, we resorted to our own creativity and imagination, and to a collect
 
 Let us now focus on Maio Vestricio Surreone for a moment.&#x20;
 
+To visualise the presentation belown click on this symbol ![](<.gitbook/assets/image (2).png>) in the upper right corner, then select ![](<.gitbook/assets/Screenshot (856).png>) and ![](<.gitbook/assets/Screenshot (859).png>). Finally, move through the slides by using this command ![](<.gitbook/assets/image (1).png>).
+
 When it came to prototyping, we decided to implement the interactive path of one specific character, our protagonist Maio. In doing so, we tried to bring our cognitive focuses to the foreground. In particular, among our goals was to make the user feel engaged, challenged, amused, and intrigued. To achieve this, we designed Maio’s personality to be realistic, genuine, and strongly characterised: he has his own language, gestures, passions, and concerns. He has a story of his own and interacts with the user asking him for help in order to restore his tomb.
 
 {% embed url="https://www.figma.com/proto/8ohNVSPg3yLp6kqsNd5zZJ/CARDS?node-id=180%3A43&page-id=0%3A1&scaling=contain&show-proto-sidebar=1&starting-point-node-id=402%3A59&viewport=241%2C48%2C0.08" %}

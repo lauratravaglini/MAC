@@ -37,7 +37,7 @@ Today, its three rooms host the rich ceramics and precious grave goods coming fr
 
 Room I exhibits findings from the **Castel Baronia Necropolis**, the most ancient one (VI century BCE): these remains — including some beautiful, early local ceramics and weapons— witness the birth and development of the Samnite ethnos.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 ### Room two.
 
@@ -51,7 +51,7 @@ The _necropolis of Addolorata_ is more recent: it dates back to the IV BCE and i
 
 The monumentality of these tombs — along with the luxurious grave goods archaeologists found inside— proves that they were **aristocratic burials**. In the IV century BCE Samnite people — and the tribe of Hirpini in particular— had in fact gained a sound economic and political power, dominated central-southern Italy, stood up to the colonies of Magna Graecia, and were about to meet the Romans — initially as commercial partners and later as enemies in a two-centuries-lasting war.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 ### Room three.
 
@@ -59,7 +59,7 @@ The monumentality of these tombs — along with the luxurious grave goods archae
 
 The third space is dedicated to the excavation of an artisan complex intended for the production of bricks and ceramics, active between the **late Republican age and the Imperial age** (I BCE). This room is also used as an educational space, enriched by the presence of the **1:1 scale reconstruction of the chamber tomb number 7** (IV century BCE), one of the monumental burials discovered in the archaeological area of ​​the Addolorata.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (4).png>)
 
 ## Exhibition and curatorial rationale.
 
