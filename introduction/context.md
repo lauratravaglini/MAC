@@ -23,7 +23,7 @@ After several archaeological excavation campaigns carried out in this area, a la
 
 > <mark style="background-color:yellow;">« The Museum tells the story of Baronia between the</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**VI and IV century BC**</mark><mark style="background-color:yellow;">, with the findings of the Roman villa expanding this chronological arch to the Roman age (2nd to 1st century). »</mark>&#x20;
 
-The museum’s origins date back to the 1980s, when **Werner Johannowsky** — an archaeologist of Austrian-Swiss origins — and his collaborators led a series of archaeological missions in Samnium and Irpinia. During one of these expeditions, a necropolis was uncovered between the municipalities of Castel Baronia and Carife.&#x20;
+The museum’s origins date back to the 1980s, when **Werner Johannowsky** — an archaeologist of Austrian-Swiss origins[^1] — and his collaborators led a series of archaeological missions in Samnium and Irpinia. During one of these expeditions, a necropolis was uncovered between the municipalities of Castel Baronia and Carife.&#x20;
 
 Since then, a museum was envisioned to preserve, expose and tell the story of these and other findings: after more than twenty years, in 2019, the MAC museum finally came to life.&#x20;
 
@@ -59,7 +59,7 @@ The third space is dedicated to the excavation of an artisan complex intended fo
 
 As the reader may have figured out, findings are showcased and organised according to:&#x20;
 
-* The **location** where they were found;&#x20;
+* The **location** where they were found[^2];&#x20;
 * Their **date**.&#x20;
 
 Although all findings are deeply interconnected (geographically, historically, culturally), **no internal thematic path** currently links the three separate spaces and their content.&#x20;

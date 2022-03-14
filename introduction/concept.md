@@ -113,31 +113,31 @@ The MAC holds and manages culturally valuable objects telling the story of pre-R
 
 As we read in the museum website, in fact:
 
-> <mark style="background-color:yellow;">«Il progetto scientifico e di allestimento è stato finalizzato prevalentemente alla conoscenza della ricchezza archeologica del territorio seguendo uno standard museale di tipo tradizionale che ha puntato soprattutto alla valorizzazione delle informazioni scientifiche e didattiche.»</mark>
+> <mark style="background-color:yellow;">«Il progetto scientifico e di allestimento è stato finalizzato prevalentemente alla conoscenza della ricchezza archeologica del territorio seguendo uno standard museale di tipo tradizionale che ha puntato soprattutto alla valorizzazione delle informazioni scientifiche e didattiche.»[^3]</mark>
 
 This considered, our project began as an inductive process: we tried to investigate as thoroughly as possible the museum's peculiarities, assets, lacks and needs, and tried to design an application which was specifically tailored for them.&#x20;
 
 In defining the museum needs, we considered **communication** to be:
 
-> <mark style="background-color:yellow;">«\[...] both the presentation of the results of research undertaken into the collections (catalogues, articles, conferences, exhibitions) and as the provision of information about the objects in the collections (the permanent exhibition and the information connected with it). This interpretation sees the exhibition both as an integral part of the research process \[...]»</mark>
+> <mark style="background-color:yellow;">«\[...] both the presentation of the results of research undertaken into the collections (catalogues, articles, conferences, exhibitions) and as the provision of information about the objects in the collections (the permanent exhibition and the information connected with it). This interpretation sees the exhibition both as an integral part of the research process \[...]»[^4]</mark>
 
 This definition is pertinent to our case since, as we have seen, the museum’s exposition is far from satisfactory when it comes to informativity: **no guides, no suggested paths and that it is impossible to visit the archaeological area**. The notion of education, on the other side,
 
-> <mark style="background-color:yellow;">«It is connected with the notion of awakening, which aims to arouse curiosity, to lead to questioning and develop the capacity to think. \[...] It is a development process which presupposes change and transformation rather than conditioning and inculcation, notions it tends to oppose. »</mark>
+> <mark style="background-color:yellow;">«It is connected with the notion of awakening, which aims to arouse curiosity, to lead to questioning and develop the capacity to think. \[...] It is a development process which presupposes change and transformation rather than conditioning and inculcation, notions it tends to oppose.»[^5]</mark>
 
 Informativity, thus, is a necessary but not sufficient condition for education, especially as far as the youngest are concerned. Education – as it emerges from the above definition – is not a passive process, it is an activity: keeping this in mind, we tried to design an impactful experience in which students (and not only) could feel **emotionally involved**.&#x20;
 
 In order to do so, we kept in consideration the concept of **musealisation**; as it has been pointed out, in fact:
 
-> <mark style="background-color:yellow;">«The process of musealisation does not consist of taking an object to place it within the physical confines of the museum \[...]. Through the change of context and the process of selection and display, the status of the object changes. »</mark>
+> <mark style="background-color:yellow;">«The process of musealisation does not consist of taking an object to place it within the physical confines of the museum \[...]. Through the change of context and the process of selection and display, the status of the object changes.»[^6]</mark>
 
 The musealisation process eradicates objects from their original context:
 
-> <mark style="background-color:yellow;">«musealisation begins with a phase of separation (Malraux, 1951) or of suspension (Déotte, 1986): objects or things (</mark><mark style="background-color:yellow;">**real things**</mark><mark style="background-color:yellow;">) are separated from their original context to be studied as documents representing the reality to which they formerly belonged.».</mark>
+> <mark style="background-color:yellow;">«musealisation begins with a phase of separation (Malraux, 1951) or of suspension (Déotte, 1986): objects or things (</mark><mark style="background-color:yellow;">**real things**</mark><mark style="background-color:yellow;">) are separated from their original context to be studied as documents representing the reality to which they formerly belonged.»[^7]</mark>
 
 This re-contextualization – especially when the youngest are involved – can be misleading: it risks to result in the false perception that objects were ‘born’ musealised and to conceal the essence of the _musealia_ as _<mark style="background-color:yellow;">«cose vere»</mark>_. Our idea was thus to stress the link between musalised objects and their original context and use by telling their own, peculiar story.&#x20;
 
-This considered, we devised an application and an interactive path guiding the users throughout their visit. Such an interactive path, whose details will be discussed in the _Development section_, has **education** as its primary object and can be classified according to the parameters and categories from the taxonomy designed by Simona Caraceni :
+This considered, we devised an application and an interactive path guiding the users throughout their visit. Such an interactive path, whose details will be discussed in the _Development section_, has **education** as its primary object and can be classified according to the parameters and categories from the taxonomy designed by Simona Caraceni[^8]:
 
 | CATEGORY | NEED TO BE ENHANCED | INTERACTION | SPACE  | CONTENT          | VIRTUAL/REAL                       | VISITORS' CONTRIBUTION |
 | -------- | ------------------- | ----------- | ------ | ---------------- | ---------------------------------- | ---------------------- |
@@ -147,9 +147,9 @@ The app’s **interaction** and **space** are closed since the visitor will be i
 
 The interactive path’s **content** will be made up of a limited number of objects, chosen to be representative of the whole collection.&#x20;
 
-According to the taxonomy depicting the possible combinations of **virtuality and reality** developed by Beltramini and Gaiani, the application will be considered to be part of the **‘real with virtual’** category, since <mark style="background-color:yellow;">«this corresponds to all the museums mixing real exhibitions of real objects with interactive systems such as sensitive tables, sensitive walls, sensitive floors and interactive multimedia.»</mark>&#x20;
+According to the taxonomy depicting the possible combinations of **virtuality and reality** developed by Beltramini and Gaiani[^9], the application will be considered to be part of the **‘real with virtual’** category, since <mark style="background-color:yellow;">«this corresponds to all the museums mixing real exhibitions of real objects with interactive systems such as sensitive tables, sensitive walls, sensitive floors and interactive multimedia.»[^10]</mark>&#x20;
 
-In addition, since – as detailed further – AR will be employed, the application can be also referred to the category of ‘virtual on real’, which involves <mark style="background-color:yellow;">«a digital reconstruction of real space that can be browsed and explored.»</mark>&#x20;
+In addition, since – as detailed further – AR will be employed, the application can be also referred to the category of ‘virtual on real’, which involves <mark style="background-color:yellow;">«a digital reconstruction of real space that can be browsed and explored.»[^11]</mark>&#x20;
 
 Finally, **visitors’ contributions** are not allowed.
 
