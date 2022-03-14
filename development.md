@@ -23,6 +23,8 @@ We made use of two tools:&#x20;
 
 The following diagram resumes what we have just exposed about the app’s structure and  describes the **users’ interaction** with it, how they will approach it and what they will be able to do.
 
+![](.gitbook/assets/sdfdgfhgjhj.png)
+
 ## The interactive guide.
 
 Now that we have outlined a general overview of the MAC App, we will discuss the main focus of our design: the interactive guide. 
