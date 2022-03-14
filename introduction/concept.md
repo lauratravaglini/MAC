@@ -6,44 +6,44 @@ To have a clearer overview of all the information gathered through the interview
 
 As a first step, we decided to work on our context by making use of ideation cards, identifying — on the basis of our interview and research — the **MAC’s key audiences, its assets, and goals**.
 
-As one can see above, we identified four target users:
+As one can see above, we identified four target users:&#x20;
 
-* **Researchers**: i.e. scholars or connoisseurs interested in deepening their understanding of the Hirpini Samnites through an in situ investigation.
-* **Archaeology enthusiasts**: any history lover who is driven by passion and curiosity about these bygone times.
-* **School kids**: as we have seen, the MAC is mainly visited by school; the direction is indeed particularly keen on enhancing any educational activity.
+* **Researchers**: i.e. scholars or connoisseurs interested in deepening their understanding of the Hirpini Samnites through an in situ investigation.&#x20;
+* **Archaeology enthusiasts**: any history lover who is driven by passion and curiosity about these bygone times.&#x20;
+* **School kids**: as we have seen, the MAC is mainly visited by school; the direction is indeed particularly keen on enhancing any educational activity.&#x20;
 * **Local visitors coming from the surrounding areas**: they are casual customers, local history lovers or potential users. We proceeded to identify three of the related MAC’s assets: Exhibits; Educational activities Outreach activities: these include any kind of project aimed at disseminating knowledge and understanding, such as the above-mentioned archaeological walks.
 
-We then focused on the **institutional goals** Mr. Castaldo brought to our attention.
+We then focused on the **institutional goals** Mr. Castaldo brought to our attention.&#x20;
 
-These include:
+These include:&#x20;
 
-* **Increasing educational activities**;
+* **Increasing educational activities**;&#x20;
 * **Increasing visitors’ number**;
-* **Using assets in new — more informative — ways**.
+* **Using assets in new — more informative — ways**.&#x20;
 
 In addition, as the interview revealed and the Unisa digitization project currently ongoing shows, MAC is also concerned about **digitising and acquiring assets, increasing visitors’ participation and changing users’ perspective on local history** — e.g. deconstructing the false premise that Samnites were no more than shepherds and warriors.
 
 Finally, we turned to consider MAC’s paramount **goal** — increasing educational activities — and its related **users** and **assets**: school kids and exhibits, respectively.
 
-To this regard we identified some motivations:
+To this regard we identified some motivations:&#x20;
 
-* **Stimulation**;
-* **Curiosity**.
+* **Stimulation**;&#x20;
+* **Curiosity**.&#x20;
 
-Both stimulation and curiosity two are in fact intended as triggers for the learning process.
+Both stimulation and curiosity two are in fact intended as triggers for the learning process.&#x20;
 
-… Some barriers:
+… Some barriers:&#x20;
 
-* **Poor signance**: the interview highlighted that MAC’s current approach is not sufficiently informative;
-* **Hidden**: MAC is not located in a big town, but in a rural area;
-* **Accessibility**: as we have seen, one of the reasons behind the MAC’s holding 3D rendering is that of creating physical reproductions which can be handled by blind people.
+* **Poor signance**: the interview highlighted that MAC’s current approach is not sufficiently informative;&#x20;
+* **Hidden**: MAC is not located in a big town, but in a rural area;&#x20;
+* **Accessibility**: as we have seen, one of the reasons behind the MAC’s holding 3D rendering is that of creating physical reproductions which can be handled by blind people.&#x20;
 
-… Some potential capabilities:
+… Some potential capabilities:&#x20;
 
-* **Gaming**;
+* **Gaming**;&#x20;
 * **Mixed reality**.
 
-… And some related technologies:
+… And some related technologies:&#x20;
 
 * **Smart phones**.
 
@@ -59,77 +59,67 @@ Here are our personas:
 
 ## Conceptual map.
 
-Having clearly defined some ideas and goals, we thoroughly discussed about how to put it all together. We finally decided to implement an application prototype. A **smartphone app**, in fact, presents the following **advantages and potentialities**:
+Having clearly defined some ideas and goals, we thoroughly discussed about how to put it all together. We finally decided to implement an application prototype. A **smartphone app**, in fact, presents the following **advantages and potentialities**:&#x20;
 
-* It is not excessively expensive to devise and implement;
+* It is not excessively expensive to devise and implement;&#x20;
 * It can work as a collector/container of the manifold aspects and matters we have by now discussed;
-* It can be accessed by a large segment of the population (nearly everybody owns a smartphone and has a basic understanding of its functioning).
+* &#x20;It can be accessed by a large segment of the population (nearly everybody owns a smartphone and has a basic understanding of its functioning).&#x20;
 
-In particular, we wanted our app to serve the following **functions**:
+In particular, we wanted our app to serve the following **functions**:&#x20;
 
-* _Promoting_: making the MAC, its history and assets known to a larger public;
-* _Aggregating_: the app is intended as a virtual space were information, suggestions and functionalities (e.g. buy tickets) of all kinds can be put together;
+* _Promoting_: making the MAC, its history and assets known to a larger public;&#x20;
+* _Aggregating_: the app is intended as a virtual space were information, suggestions and functionalities (e.g. buy tickets) of all kinds can be put together;&#x20;
 * _Educating and entertaining_: as we will see in a while, one of the main sections of the app is entirely dedicated to an interactive guide, designed as a game.
 
-In order to implement our prototype, we needed:
+In order to implement our prototype, we needed:&#x20;
 
-* A _prototyping tool_: we made use of **Figma**, a collaborative online-based editor, for creating graphic contents (e.g. the conceptual maps, the personas, the avatars, the mockup presentation) and for prototyping the interactive guide;
-* A _mockup tool_: we chose **Balsamiq** for the app’s wireframe.
+* A _prototyping tool_: we made use of **Figma**, a collaborative online-based editor, for creating graphic contents (e.g. the conceptual maps, the personas, the avatars, the mockup presentation) and for prototyping the interactive guide;&#x20;
+* A _mockup tool_: we chose **Balsamiq** for the app’s wireframe.&#x20;
 * A _graphic editor_: **Adobe Photoshop** for the visual elements and **The Sims 4** for character design.
 
 ## Museological approach.
 
-The next step was to reflect on the museological approach we intended to adopt and implement in our application.
+The next step was to reflect on the museological approach we intended to adopt and implement in our application.&#x20;
 
-The MAC holds and manages culturally valuable objects telling the story of pre-Roman Baronia. However, objects do not speak by themselves: since their historical and archaeological importance is not self-evident, it must be properly expressed and communicated to the laymen. Storytelling (as we may say) thus becomes an urgent matter, especially for museums which, like MAC does, hold education and dissemination as their first goal. As we read in the museum website, in fact:
+The MAC holds and manages culturally valuable objects telling the story of pre-Roman Baronia. However, objects do not speak by themselves: since their historical and archaeological importance is not self-evident, it must be properly expressed and communicated to the laymen. Storytelling (as we may say) thus becomes an urgent matter, especially for museums which, like MAC does, hold education and dissemination as their first goal. As we read in the museum website, in fact:&#x20;
 
-> <mark style="background-color:yellow;">«Il progetto scientifico e di allestimento è stato finalizzato prevalentemente alla conoscenza della ricchezza archeologica del territorio seguendo uno standard museale di tipo tradizionale che ha puntato soprattutto alla valorizzazione delle informazioni scientifiche e didattiche.»</mark>
+> <mark style="background-color:yellow;">«Il progetto scientifico e di allestimento è stato finalizzato prevalentemente alla conoscenza della ricchezza archeologica del territorio seguendo uno standard museale di tipo tradizionale che ha puntato soprattutto alla valorizzazione delle informazioni scientifiche e didattiche.»</mark>&#x20;
 
-This considered, our project began as an inductive process: we tried to investigate as thoroughly as possible the museum's peculiarities, assets, lacks and needs, and tried to design an application which was specifically tailored for them. In defining the museum needs, we considered communication to be:
+This considered, our project began as an inductive process: we tried to investigate as thoroughly as possible the museum's peculiarities, assets, lacks and needs, and tried to design an application which was specifically tailored for them. In defining the museum needs, we considered communication to be:&#x20;
 
 > <mark style="background-color:yellow;">«\[...] both the presentation of the results of research undertaken into the collections (catalogues, articles, conferences, exhibitions) and as the provision of information about the objects in the collections (the permanent exhibition and the information connected with it). This interpretation sees the exhibition both as an integral part of the research process \[...]»</mark>
 
 This definition is pertinent to our case since, as we have seen, the museum’s exposition is far from satisfactory when it comes to informativity: no guides, no suggested paths and that it is impossible to visit the archaeological area. The notion of education, on the other side,
 
-> <mark style="background-color:yellow;">«It is connected with the notion of awakening, which aims to arouse curiosity, to lead to questioning and develop the capacity to think. \[...] It is a development process which presupposes change and transformation rather than conditioning and inculcation, notions it tends to oppose. »</mark>
+> &#x20;<mark style="background-color:yellow;">«It is connected with the notion of awakening, which aims to arouse curiosity, to lead to questioning and develop the capacity to think. \[...] It is a development process which presupposes change and transformation rather than conditioning and inculcation, notions it tends to oppose. »</mark>&#x20;
 
 Informativity, thus, is a necessary but not sufficient condition for education, especially as far as the youngest are concerned. Education – as it emerges from the above definition – is not a passive process, it is an activity: keeping this in mind, we tried to design an impactful experience in which students (and not only) could feel emotionally involved. In order to do so, we kept in consideration the concept of musealisation; as it has been pointed out, in fact:
 
-> <mark style="background-color:yellow;">«The process of musealisation does not consist of taking an object to place it within the physical confines of the museum \[...]. Through the change of context and the process of selection and display, the status of the object changes. »</mark>
+> <mark style="background-color:yellow;">«The process of musealisation does not consist of taking an object to place it within the physical confines of the museum \[...]. Through the change of context and the process of selection and display, the status of the object changes. »</mark>&#x20;
 
-The musealisation process eradicates objects from their original context:
+The musealisation process eradicates objects from their original context:&#x20;
 
-> <mark style="background-color:yellow;">«musealisation begins with a phase of separation (Malraux, 1951) or of suspension (Déotte, 1986): objects or things (</mark><mark style="background-color:yellow;">**real things**</mark><mark style="background-color:yellow;">) are separated from their original context to be studied as documents representing the reality to which they formerly belonged.».</mark>
+> <mark style="background-color:yellow;">«musealisation begins with a phase of separation (Malraux, 1951) or of suspension (Déotte, 1986): objects or things (real things) are separated from their original context to be studied as documents representing the reality to which they formerly belonged.».</mark>&#x20;
 
-This re-contextualization – especially when the youngest are involved – can be misleading: it risks to result in the false perception that objects were ‘born’ musealised and to conceal the essence of the _musealia_ as _<mark style="background-color:yellow;">«cose vere»</mark>_. Our idea was thus to stress the link between musalised objects and their original context and use by telling their own, peculiar story.&#x20;
+This re-contextualization – especially when the youngest are involved – can be misleading: it risks to result in the false perception that objects were ‘born’ musealised and to conceal the essence of the musealia as «cose vere». Our idea was thus to stress the link between musalised objects and their original context and use by telling their own, peculiar story. This considered, we devised an application and an interactive path guiding the users throughout their visit. Such an interactive path, whose details will be discussed in the Development section, has education as its primary object and can be classified according to the parameters and categories from the taxonomy designed by Simona Caraceni :
 
-This considered, we devised an application and an interactive path guiding the users throughout their visit. Such an interactive path, whose details will be discussed in the _Development section_, has **education** as its primary object and can be classified according to the parameters and categories from the taxonomy designed by Simona Caraceni :
+| CATEGORY | NEED TO BE ENHANCED | INTERACTION | SPACE  |      CONTENT       |            VIRTUAL/REAL            | VISITORS' CONTRIBUTION |
+| -------- | ------------------- | ----------- | ------ | ------------------ | ---------------------------------- | ---------------------- |
+|          |      Education      |   Closed    | Closed |  Selected objects  | Real with virtua + Virtual on real |       Not allowed      |
 
-| CATEGORY | NEED TO BE ENHANCED | INTERACTION | SPACE  | CONTENT          | VIRTUAL/REAL                       | VISITORS' CONTRIBUTION |
-| -------- | ------------------- | ----------- | ------ | ---------------- | ---------------------------------- | ---------------------- |
-| B        | Education           | Closed      | Closed | Selected objects | Real with virtua + Virtual on real | Not allowed            |
-
-The app’s interaction and space are closed since the visitor will be involved in a treasure hunt across the museum’s holdings, with ‘clues’ leading from one artefact to the next in a step-by-step process. The ‘participants’ will thus neither choose from which finding to start nor will the path be still meaningful if any intermediate step is skipped.&#x20;
-
-The interactive path’s content will be made up of a limited number of objects, chosen to be representative of the whole collection.&#x20;
-
-According to the taxonomy depicting the possible combinations of **virtuality and reality** developed by Beltramini and Gaiani, the application will be considered to be part of the **‘real with virtual’** category, since <mark style="background-color:yellow;">«this corresponds to all the museums mixing real exhibitions of real objects with interactive systems such as sensitive tables, sensitive walls, sensitive floors and interactive multimedia.»</mark>&#x20;
-
-In addition, since – as detailed further – AR will be employed, the application can be also referred to the category of ‘virtual on real’, which involves <mark style="background-color:yellow;">«a digital reconstruction of real space that can be browsed and explored.»</mark>&#x20;
-
-Finally, **visitors’ contributions** are not allowed.
+The app’s interaction and space are closed since the visitor will be involved in a treasure hunt across the museum’s holdings, with ‘clues’ leading from one artefact to the next in a step-by-step process. The ‘participants’ will thus neither choose from which finding to start nor will the path be still meaningful if any intermediate step is skipped. The interactive path’s content will be made up of a limited number of objects, chosen to be representative of the whole collection. According to the taxonomy depicting the possible combinations of virtuality and reality developed by Beltramini and Gaiani, the application will be considered to be part of the ‘real with virtual’ category, since «this corresponds to all the museums mixing real exhibitions of real objects with interactive systems such as sensitive tables, sensitive walls, sensitive floors and interactive multimedia.» In addition, since – as detailed further – AR will be employed, the application can be also referred to the category of ‘virtual on real’, which involves «a digital reconstruction of real space that can be browsed and explored.» Finally, visitors’ contributions are not allowed.
 
 ## Cognitive focus.
 
 Our main goal being education and our idea of education being that of an active process, we decided to design an experience that could both engage and stimulate the users. But what makes an experience impressive, effective, memorable? After discussing these and other related topics, we identified the main focuses and perspectives our application should include and develop.
 
-**Meaningfulness**: significance is essential both to create an involving experience and to fuel any learning process. To achieve it, we decided to design a game — a treasure hunt — to:
+**Meaningfulness**: significance is essential both to create an involving experience and to fuel any learning process. To achieve it, we decided to design a game — a treasure hunt — to:&#x20;
 
-* make the user feel actively engaged, challenged, involved;
-* create a sense of purpose, based on some tasks to be fulfilled (i.e. ‘to find something’);
-* create a sense of expectation and curiosity;
+* make the user feel actively engaged, challenged, involved;&#x20;
+* create a sense of purpose, based on some tasks to be fulfilled (i.e. ‘to find something’);&#x20;
+* create a sense of expectation and curiosity;&#x20;
 * stimulate cooperation, since the game can be played in team;
 
 **Authenticity**: meaningfulness can be powered by a sense of presence and realism. We thus created three fictional but lifelike characters to guide the visitors through their experiences. Each of the three will make some requests to the user: the nature and purpose of the requests will vary depending on each of the characters’ personalities. In this way, a sense of genuinity and verisimilitude is created.
 
-Of course, characters’ design strongly relies on **language and narrative**: each of the three characters’ way of speaking will mirror their personality, and to each of them a different and peculiar narrative will be assigned.
+Of course, characters’ design strongly relies on language and narrative: each of the three characters’ way of speaking will mirror their personality, and to each of them a different and peculiar narrative will be assigned.

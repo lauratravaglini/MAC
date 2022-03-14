@@ -107,5 +107,7 @@ Unfortunately, the bureaucratic and funding times are long.
 
 Considering the archaeological richness of the territory, an archaeological walk throughout the Ufita valley and its sites has recently been organised. In this way, the visitors have not only had the opportunity to get to know the musealised findings materials, but also the sites where they were originally found. Unfortunately, **no indications or signalled paths** are present to guide visitors without specialised guides to address and direct them.
 
+## Notes.
 
+1. He was at the top of the Superintendence of the provinces of Avellino, Salerno and Benevento for a while.
 
