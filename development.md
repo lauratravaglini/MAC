@@ -21,15 +21,18 @@ We made use of two tools:&#x20;
 
 ## The user diagram.
 
-The following diagram resumes what we have just exposed about the app’s structure and  describes the users’ interaction with it, how they will approach it and what they will be able to do.
+The following diagram resumes what we have just exposed about the app’s structure and  describes the **users’ interaction** with it, how they will approach it and what they will be able to do.
 
 ![](<.gitbook/assets/Slide 16\_9 - 7.jpg>)
 
 ## The interactive guide.
 
-Now that we have outlined a general overview of the MAC App, we will discuss the main focus of our design: the interactive guide. As we have just shown, when the users choose this type of guide over the traditional one, three symbols will be displayed: without further explanation, blindly, one must be picked. That's where the fun begins.
+Now that we have outlined a general overview of the MAC App, we will discuss the main focus of our design: the **interactive guide**.&#x20;
 
-Once they click on it, depending on the chosen symbol, an avatar will appear and their path will start. This fictional character will guide the users in their visit by keeping them entertained by telling their own story and by engaging them in a treasure hunt across the museum’s holdings. When all the sought-after objects are collected and the path is over, the user will be rewarded with the possibility to see the character’s tomb as it was at the time of burial. The grave will be reconstructed via AR exploiting the 3D rendering project that is currently carried out by the University of Salerno. The AR experience will either take place in the museum, where the 1:1 chamber tomb reconstruction is, or – better – in the archaeological site itself. In fact, it is reachable with a ten-minute walk from the MAC.
+* As we have just shown, when the users choose this type of guide over the traditional one, **three symbols** will be displayed: without further explanation, blindly, one must be picked. That's where the fun begins.
+* Once they click on it, depending on the chosen symbol, an **avatar** will appear and their path will start.&#x20;
+* This fictional character will guide the users in their visit by keeping them entertained by telling their own story and by engaging them in a **treasure hunt** across the museum’s holdings.&#x20;
+* When all the sought-after objects are collected and the path is over, the user will be rewarded with the possibility **to see the character’s tomb as it was at the time of burial**. The grave will be reconstructed via AR exploiting the 3D rendering project that is currently carried out by the University of Salerno. The AR experience will either take place in the museum, where the 1:1 chamber tomb reconstruction is, or – better – in the archaeological site itself. In fact, it is reachable with a ten-minute walk from the MAC.
 
 ## **The characters.**
 
@@ -39,7 +42,7 @@ The three fictional characters of our App were designed drawing inspiration from
 2. **Nilde Velina,**&#x20;
 3. and **Enclopio Ponzio**.&#x20;
 
-In addition, we resorted to our own creativity and imagination, and to a collective _repertoire_ of archetypes, as will be detailed in the following pages. For the actual character design, we made use of The Sims 4, a life simulation video game. Once we built the three “Sims”, we made them interact and took pictures of their expressions. Each of them is shown with two different looks: one when she/he was alive, and one dead.
+In addition, we resorted to our own creativity and imagination, and to a collective _repertoire_ of archetypes, as will be detailed in the following pages. For the actual character design, we made use of **The Sims 4**, a life simulation video game. Once we built the three “Sims”, we made them interact and took pictures of their expressions. Each of them is shown with two different looks: one when she/he was alive, and one dead.
 
 ![](<.gitbook/assets/Frame 7.png>)
 
@@ -61,7 +64,9 @@ In addition, we resorted to our own creativity and imagination, and to a collect
 
 ## **Implementation: Maio Vestricio Surreone.**
 
-Let us now focus on Maio Vestricio Surreone for a moment. When it came to prototyping, we decided to implement the interactive path of one specific character, our protagonist Maio. In doing so, we tried to bring our cognitive focuses to the foreground. In particular, among our goals was to make the user feel engaged, challenged, amused, and intrigued. To achieve this, we designed Maio’s personality to be realistic, genuine, and strongly characterised: he has his own language, gestures, passions, and concerns. He has a story of his own and interacts with the user asking him for help in order to restore his tomb.
+Let us now focus on Maio Vestricio Surreone for a moment.&#x20;
+
+When it came to prototyping, we decided to implement the interactive path of one specific character, our protagonist Maio. In doing so, we tried to bring our cognitive focuses to the foreground. In particular, among our goals was to make the user feel engaged, challenged, amused, and intrigued. To achieve this, we designed Maio’s personality to be realistic, genuine, and strongly characterised: he has his own language, gestures, passions, and concerns. He has a story of his own and interacts with the user asking him for help in order to restore his tomb.
 
 {% embed url="https://www.figma.com/proto/8ohNVSPg3yLp6kqsNd5zZJ/CARDS?node-id=180%3A43&page-id=0%3A1&scaling=contain&show-proto-sidebar=1&starting-point-node-id=402%3A59&viewport=241%2C48%2C0.08" %}
 
@@ -73,16 +78,18 @@ Do you remember Chiara, the teenage loner girl? In order to understand if our Ap
 
 ## Requirements and foreseen workflow.&#x20;
 
-We identified some steps and related professional figures needed to actually implement the MAC App:&#x20;
+We identified some steps and related **professional figures** needed to actually implement the MAC App:&#x20;
 
 * A software developer in charge of the back-end;&#x20;
 * A user experience expert and/or a designer for the front-end and all the aesthetic aspects of the app;&#x20;
 * A professional, such as an archeologist in this specific case, to verify the scientific accuracy of the contents;&#x20;
 * For the interactive guide a game designer, a game developer, a sound engineer, an Italian voice actor (and at least an English one too) will be involved, and a 3D modeller for the Augmented Reality part.
 
-In the foreseen workflow, all these professionals will be needed and will be asked to cooperate. In the specific case of the MAC, some institutions and professionals are already collaborating with the Museum. In particular, as we have already pointed out, the University of Salerno is carrying out a digitization project (3D scanning) on some of the Museum’s holdings. The resulting 3D models could be effectively included in the AR reconstruction of the archaeological sites.&#x20;
+In the foreseen workflow, all these professionals will be needed and will be asked to cooperate. In the specific case of the MAC, some institutions and professionals are already collaborating with the Museum. In particular, as we have already pointed out, the **University of Salerno** is carrying out a digitization project (3D scanning) on some of the Museum’s holdings. The resulting 3D models could be effectively included in the AR reconstruction of the archaeological sites.&#x20;
 
-Moreover, the _ABAP Superintendence of Salerno and Avellino_ and the Municipality of Carife should cooperate and play a role in order to dissolve any bureaucratic obstacles regarding the necropolis linked to the Museum. During our interview with Mr. Castaldo, we had the opportunity to get to know an archaeologist who is currently working on Carife and nearby archaeological areas. She and a number of her colleagues would be at disposal for a sound reconstruction of the historical background.
+Moreover, the **ABAP Superintendence of Salerno and Avellino** and the **Municipality of Carife** should cooperate and play a role in order to dissolve any bureaucratic obstacles regarding the necropolis linked to the Museum.&#x20;
+
+During our interview with Mr. Castaldo, we had the opportunity to get to know an **archaeologist** who is currently working on Carife and nearby archaeological areas. She and a number of her colleagues would be at disposal for a sound reconstruction of the historical background.
 
 ## Further development and maintenance issues.&#x20;
 
