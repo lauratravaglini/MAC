@@ -5,7 +5,7 @@ coverY: 0
 
 # CONTEXT
 
-The <mark style="background-color:yellow;">**MAC**</mark> (_Museo Archeologico Carife_) is a small yet fascinating archaeological museum: it aims at disseminating knowledge and new perspectives on the _pre-Roman history of Baronia_ — the area to which Carife belongs.
+The **MAC** (_Museo Archeologico Carife_) is a small yet fascinating archaeological museum: it aims at disseminating knowledge and new perspectives on the _pre-Roman history of Baronia_ — the area to which Carife belongs.
 
 Twenty years after its original conception, MAC opened to the public in **2019** as the result of the collaboration between the **Municipality of Carife** and the **ABAP Superintendence** of Salerno and Avellino, with the authorization of the General Management of **Mibac**.
 
@@ -13,17 +13,17 @@ In order to better understand the MAC, its history, vision, and organisation we 
 
 ## **Carife: an enchanted valley**.
 
-> <mark style="background-color:yellow;">«A traveller reaching Irpinia will come across a number of hills and very narrow valleys. In such a landscape, the Ufita valley represents an exception: here, in fact, a flat landscape opens up as a wide valley surrounded by mountains. The richness of this territory lies in its valley and in the presence of the</mark> <mark style="background-color:yellow;">**Ufita River**</mark><mark style="background-color:yellow;">. »</mark>
+> <mark style="color:yellow;">«A traveller reaching Irpinia will come across a number of hills and very narrow valleys. In such a landscape, the Ufita valley represents an exception: here, in fact, a flat landscape opens up as a wide valley surrounded by mountains. The richness of this territory lies in its valley and in the presence of the Ufita River. »</mark>
 
 **Carife** is a village in Campania (Southern Italy): it lies 30 km away from its province’s capital (Avellino), in the historical and geographical area known as **Baronia**, whose territory stretches across the Apennine watershed line, between the upper and middle valley of the river Ufita.
 
-![](<../.gitbook/assets/Schermata 2022-03-14 alle 16.47.05 (1).png>)
+![](<../.gitbook/assets/Schermata 2022-03-14 alle 16.47.05.png>)
 
 After several archaeological excavation campaigns carried out in this area, a large amount of remains have been brought to light. These finds bear witness of human presence which go back to the ancient **Neolithic**, up to the **Roman conquest** of the area (III BC) and beyond (**Hellenistic and Byzantine ages**). Of course, the dense and continuous population has been favoured by its geographical position, by the proximity to the Ufita River and its flourishing valley.
 
 ## The museum
 
-> <mark style="background-color:yellow;">«The Museum tells the history of Baronia between the</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**VI and IV century BCE**</mark><mark style="background-color:yellow;">. The findings of the Roman villa expand this timeframe to the</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**Roman age**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">(II to I century BCE).»</mark>
+> <mark style="color:yellow;">«The Museum tells the history of Baronia between the</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**VI and IV century BCE**</mark><mark style="color:yellow;">. The findings of the Roman villa expand this timeframe to the Roman age (</mark><mark style="color:yellow;">**II to I century BCE**</mark><mark style="color:yellow;">).»</mark>
 
 The museum’s origins date back to the 1980s, when **Werner Johannowsky** — an archaeologist of Austrian-Swiss origins[\[^1\]](context.md#footnotes.) — and his collaborators led a series of archaeological missions in Samnium and Irpinia. During one of these expeditions, a necropolis was uncovered between the municipalities of Castel Baronia and Carife.
 
@@ -33,7 +33,7 @@ Today, its three rooms host the rich ceramics and precious grave goods coming fr
 
 ### Room one.
 
-> <mark style="background-color:yellow;">« All throughout the</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**VI century BCE**</mark><mark style="background-color:yellow;">, Baronia was a crossroad of political and economic relations between the Tyrrhenian and the Adriatic coasts. By the end of this century the Samnite ethnos was born. »</mark>
+> <mark style="color:yellow;">«All throughout the</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**VI century BCE**</mark><mark style="color:yellow;">, Baronia was a crossroad of political and economic relations between the Tyrrhenian and the Adriatic coasts. By the end of this century the Samnite ethnos was born.»</mark>
 
 Room I exhibits findings from the **Castel Baronia Necropolis**, the most ancient one (VI century BCE): these remains — including some beautiful, early local ceramics and weapons— witness the birth and development of the Samnite ethnos.
 
@@ -41,7 +41,7 @@ Room I exhibits findings from the **Castel Baronia Necropolis**, the most ancien
 
 ### Room two.
 
-> <mark style="background-color:yellow;">«The two necropolises found in Carife witness a moment of great economic and political power: the</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**IV century BCE**</mark><mark style="background-color:yellow;">. It was then that the Saminites came in contact with the Romans: after engaging in pacific commercial relationships, the two civilizations eventually came up against each other. The resulting conflict ultimately led to the Roman conquest of the area.»</mark>
+> <mark style="color:yellow;">«The two necropolises found in Carife witness a moment of great economic and political power: the</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**IV century BCE**</mark><mark style="color:yellow;">. It was then that the Saminites came in contact with the Romans: after engaging in pacific commercial relationships, the two civilizations eventually came up against each other. The resulting conflict ultimately led to the Roman conquest of the area.»</mark>
 
 The second room houses archaeological findings from two necropolises in Carife: in particular, they were unearthed in the localities of **Piano La Sala** and **Addolorata**, after which they are named.
 
@@ -55,7 +55,7 @@ The monumentality of these tombs — along with the luxurious grave goods archae
 
 ### Room three.
 
-> <mark style="background-color:yellow;">«Archaeological evidence testifies to the disappearance of the Hirpinian civilization: the Roman furnaces tell us about the moment in which</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**Irpinia became Roman.**</mark><mark style="background-color:yellow;">»</mark>
+> <mark style="color:yellow;">«Archaeological evidence testifies to the disappearance of the Hirpinian civilization: the Roman furnaces tell us about the moment in which</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Irpinia became Roman**</mark><mark style="color:yellow;">. »</mark>
 
 The third space is dedicated to the excavation of an artisan complex intended for the production of bricks and ceramics, active between the **late Republican age and the Imperial age** (I BCE). This room is also used as an educational space, enriched by the presence of the **1:1 scale reconstruction of the chamber tomb number 7** (IV century BCE), one of the monumental burials discovered in the archaeological area of ​​the Addolorata.
 
@@ -63,7 +63,7 @@ The third space is dedicated to the excavation of an artisan complex intended fo
 
 ## Exhibition and curatorial rationale.
 
-> <mark style="background-color:yellow;">«Currently the exhibition is not sufficiently informative: it is the late outcome of an old project.»</mark>
+> <mark style="color:yellow;">«Currently the exhibition is not sufficiently informative: it is the late outcome of an old project.»</mark>
 
 As the reader may have figured out, findings are showcased and organised according to:
 
@@ -74,17 +74,17 @@ Although all findings are deeply interconnected (geographically, historically, c
 
 In addition, as Mr. Castaldo pointed out, **no regular guides’ service** is provided at the MAC:
 
-> <mark style="background-color:yellow;">«Visitors are currently welcomed by civil service volunteers who have been trained to discuss what is on exhibition. \[…] In addition, some volunteers from Carife, or myself, welcome the most attentive visitors. The Museum is looking forward to organising a professional guide system, for example for schools. »</mark>
+> <mark style="color:yellow;">«Visitors are currently welcomed by civil service volunteers who have been trained to discuss what is on exhibition. \[…] When possible, some volunteers from Carife — or myself — welcome the most attentive visitors. The Museum is looking forward to organising a professional guides’ service, for example for schools.»</mark>
 
 ### The archaeological area.
 
-> <mark style="background-color:yellow;">«The necropolis of Addolorata is important and interesting, since no other necropolis can be visited in Campania, apart from the fourth-century tombs of the amphitheatre of Capua, Santa Maria Capua Vetere. »</mark>
+> <mark style="color:yellow;">«The necropolis of Addolorata is important and interesting, since no other coeval necropolis can be visited in Campania, apart from the IV-century tombs of the amphitheatre of Capua, Santa Maria Capua Vetere.»</mark>
 
-Despite its historical relevance, **bureaucratic matters** make actual access to the archaeological area in Carife problematic. While the Museum is managed by the municipality of Carife, in fact, the archaeological site is under the jurisdiction of the **Archaeological Superintendence**. It is therefore impossible for the Museum to make any kind of intervention in the area, which is nonetheless badly maintained and not conforming to the required and desirable standards for visitors' access. However, the Museum holds the keys of the site, and opens it up for interested visitors — under the staff’s keen eye, of course. Despite being extremely close to each other (500 metres) and deeply connected, the Museum and the site belong to different and currently incompatible dimensions: <mark style="background-color:yellow;">«Geographical closeness does not coincide with regulatory proximity»,</mark> as Mr. Castaldo puts it.
+Despite its historical relevance, **bureaucratic matters** make actual access to the archaeological area in Carife problematic. While the Museum is managed by the municipality of Carife, in fact, the archaeological site is under the jurisdiction of the **Archaeological Superintendence**. It is therefore impossible for the Museum to make any kind of intervention in the area, which is nonetheless badly maintained and not conforming to the required and desirable standards for visitors' access. However, the Museum holds the keys of the site, and opens it up for interested visitors — under the staff’s keen eye, of course. Despite being extremely close to each other (500 metres) and deeply connected, the Museum and the site belong to different and currently incompatible dimensions: <mark style="color:yellow;">«Geographical closeness does not coincide with regulatory proximity»</mark><mark style="background-color:yellow;">,</mark> as Mr. Castaldo puts it.
 
 ## The visitors.
 
-> <mark style="background-color:yellow;">«Most of the visitors are school students: in addition, local history enthusiasts come to the Museum. »</mark>
+> <mark style="color:yellow;">«Most of the visitors are school students: in addition, local history enthusiasts occasionally come to visit the Museum. »</mark>
 
 Visitors are mainly **students** from middle and high school: the Museum management is especially concerned about the educational potential of its holdings. As we have already pointed out, in fact, part of the third room is dedicated to a tomb reproduction for learning purposes. To further enhance the **educational experience** at the Museum, Mr. Castaldo is looking forward to setting up a professional and specialised welcome and guides’ service for schools, despite the scarcity of financial resources.
 
@@ -94,7 +94,7 @@ In addition to the youngest, the museum is mainly visited by local **history/arc
 
 ### Expanding.
 
-> <mark style="background-color:yellow;">«The territory of Baronia is extremely rich, archaeologically speaking: currently, the museum tells a small chronological span, if compared to the historical relevance of the area. »</mark>
+> <mark style="color:yellow;">«The territory of Baronia is extremely rich, archaeologically speaking: currently, the museum tells about a limited chronological span, if compared to the historical relevance of the area. »</mark>
 
 The Museum’s exhibits cover a narrow timeframe: exposed materials belong to the **VI, V, and IV centuries BCE**, and from the beginnings of the Roman age. Its deposit, though, stores findings from the prehistoric era, as well as much more material from the three necropolises and from a Roman Villa. Finally, the **Hellenistic** and **Roman** necropolises which have been unearthed in the surrounding area have not been studied or exhibited at all.
 
