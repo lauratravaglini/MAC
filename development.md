@@ -9,9 +9,21 @@ We made use of two tools:&#x20;
 * **Balsamiq** to create a mockup describing the structural components**;**&#x20;
 * **Figma** to elaborate some graphical proposals for the implementation.
 
+![](https://lh3.googleusercontent.com/5UiahFgRgVUxo9i3AIYHpSl9-Q5KqkclktIc8DjpwPb0k\_i3Af7gQQbf6T5lwSPxHUrwKjN8PtSeWVgRmsl6-FAlbeH4A4BZkJSVWPX0NlHnLsruoYywtP2OYI93hQ)
+
+![](.gitbook/assets/asdadsadsasd.png)
+
+![](.gitbook/assets/asdfsgdfg.jpg)
+
+![](.gitbook/assets/sdfg.jpg)
+
+![](.gitbook/assets/asdfgh.jpg)
+
 ## The user diagram.
 
 The following diagram resumes what we have just exposed about the app’s structure and  describes the users’ interaction with it, how they will approach it and what they will be able to do.
+
+![](<.gitbook/assets/Slide 16\_9 - 7.jpg>)
 
 ## The interactive guide.
 
@@ -21,7 +33,31 @@ Once they click on it, depending on the chosen symbol, an avatar will appear and
 
 ## **The characters.**
 
-The three fictional characters of our App were designed drawing inspiration from three extant tombs found in the Addolorata necropolis. By analysing the burials’ contents as they were unearthed by the archaeologists, and by studying Samnites’ history and customs, we reconstructed the profiles of our avatars: Maio Vestricio Surreone, Nilde Velina, and Enclopio Ponzio. In addition, we resorted to our own creativity and imagination, and to a collective _repertoire_ of archetypes, as will be detailed in the following pages. For the actual character design, we made use of The Sims 4, a life simulation video game. Once we built the three “Sims”, we made them interact and took pictures of their expressions. Each of them is shown with two different looks: one when she/he was alive, and one dead.
+The three fictional characters of our App were designed drawing inspiration from three extant tombs found in the Addolorata necropolis. By analysing the burials’ contents as they were unearthed by the archaeologists, and by studying Samnites’ history and customs, we reconstructed the profiles of our avatars:&#x20;
+
+1. **Maio Vestricio Surreone,**&#x20;
+2. **Nilde Velina,**&#x20;
+3. and **Enclopio Ponzio**.&#x20;
+
+In addition, we resorted to our own creativity and imagination, and to a collective _repertoire_ of archetypes, as will be detailed in the following pages. For the actual character design, we made use of The Sims 4, a life simulation video game. Once we built the three “Sims”, we made them interact and took pictures of their expressions. Each of them is shown with two different looks: one when she/he was alive, and one dead.
+
+![](<.gitbook/assets/Frame 7.png>)
+
+![](<.gitbook/assets/A4 - 21.jpg>)
+
+![](<.gitbook/assets/A4 - 22.jpg>)
+
+![](<.gitbook/assets/A4 - 11.jpg>)
+
+![](<.gitbook/assets/A4 - 14 (1).jpg>)
+
+![](<.gitbook/assets/A4 - 16 (1).jpg>)
+
+![](<.gitbook/assets/A4 - 18 (1).jpg>)
+
+![](<.gitbook/assets/A4 - 19 (1).jpg>)
+
+![](<.gitbook/assets/A4 - 20.jpg>)
 
 ## **Implementation: Maio Vestricio Surreone.**
 
