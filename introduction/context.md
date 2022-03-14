@@ -29,6 +29,8 @@ Since then, a museum was envisioned to preserve, expose and tell the story of th
 
 Today, its three rooms host the rich ceramics and precious grave goods coming from three necropolises and some Roman remains from the late Republican and early Imperial age ( an artisanal complex for the production of bricks and a Roman villa).
 
+[^1]:He was at the top of the Superintendence of the provinces of Avellino, Salerno and Benevento for a while.
+
 ### Room one.&#x20;
 
 > <mark style="background-color:yellow;">«The VI century BC is the heyday of Greek civilization: in this period, the Greek Cuma rises to the peak of its power and comes into conflict with the Etruscan Capua: in this very area (scil. Baronia), political relations between the Tyrrhenian and the Adriatic coasts take place. It is by the end of this century that the Samnite people form and their identity clearly takes shape. »</mark>
@@ -49,7 +51,7 @@ The monumentality of these tombs — along with the luxurious grave goods archae
 
 ### Room three.&#x20;
 
-> <mark style="background-color:yellow;">«Archaeological evidence testifies to the disappearance of the Hirpinian civilization: furnaces of the Roman age have been found that tell us about the moment in which</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**Irpinia became Roman**</mark><mark style="background-color:yellow;">. »</mark>
+> <mark style="background-color:yellow;">«Archaeological evidence testifies to the disappearance of the Hirpinian civilization: furnaces of the Roman age have been found that tell us about the moment in which</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**Irpinia became Roman**</mark><mark style="background-color:yellow;">.»</mark>
 
 The third space is dedicated to the excavation of an artisan complex intended for the production of bricks and ceramics, active between the **late Republican age and the Imperial age** (I BCE). This room is also used as an educational space, enriched by the presence of the **1:1 scale reconstruction of the chamber tomb number 7** (IV century BCE), one of the monumental burials discovered in the archaeological area of ​​the Addolorata.
 
