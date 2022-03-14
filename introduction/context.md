@@ -37,6 +37,8 @@ Today, its three rooms host the rich ceramics and precious grave goods coming fr
 
 Room I exhibits findings from the **Castel Baronia Necropolis**, the most ancient one (VI century BCE): these remains — including some beautiful, early local ceramics and weapons— witness the birth and development of the Samnite ethnos.
 
+![](<../.gitbook/assets/image (2).png>)
+
 ### Room two.
 
 > <mark style="background-color:yellow;">«The two necropolises found in Carife witness a moment of great economic and political power: the IV century BCE. It was then that the Saminites came in contact with the Romans: after engaging in pacific commercial relationships, the two civilizations eventually came up against each other. The resulting conflict ultimately led to the Roman conquest of the area.»</mark>
@@ -49,11 +51,15 @@ The _necropolis of Addolorata_ is more recent: it dates back to the IV BCE and i
 
 The monumentality of these tombs — along with the luxurious grave goods archaeologists found inside— proves that they were **aristocratic burials**. In the IV century BCE Samnite people — and the tribe of Hirpini in particular— had in fact gained a sound economic and political power, dominated central-southern Italy, stood up to the colonies of Magna Graecia, and was about to meet the Romans — initially as commercial partners and later as enemies in a two-centuries-lasting war.
 
+![](<../.gitbook/assets/image (1).png>)
+
 ### Room three.
 
 > <mark style="background-color:yellow;">«Archaeological evidence testifies to the disappearance of the Hirpinian civilization: the Roman furnaces tell us about the moment in which</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**Irpinia became Roman.**</mark><mark style="background-color:yellow;">»</mark>
 
 The third space is dedicated to the excavation of an artisan complex intended for the production of bricks and ceramics, active between the **late Republican age and the Imperial age** (I BCE). This room is also used as an educational space, enriched by the presence of the **1:1 scale reconstruction of the chamber tomb number 7** (IV century BCE), one of the monumental burials discovered in the archaeological area of ​​the Addolorata.
+
+![](../.gitbook/assets/image.png)
 
 ## Exhibition and curatorial rationale.
 
