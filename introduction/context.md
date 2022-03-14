@@ -33,7 +33,7 @@ Today, its three rooms host the rich ceramics and precious grave goods coming fr
 
 ### Room one.
 
-> <mark style="background-color:yellow;">« All throughout the VI century BCE, Baronia was a crossroad of political and economic relations between the Tyrrhenian and the Adriatic coasts. By the end of this century the Samnite ethnos was born. »</mark>
+> <mark style="background-color:yellow;">« All throughout the</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**VI century BCE**</mark><mark style="background-color:yellow;">, Baronia was a crossroad of political and economic relations between the Tyrrhenian and the Adriatic coasts. By the end of this century the Samnite ethnos was born. »</mark>
 
 Room I exhibits findings from the **Castel Baronia Necropolis**, the most ancient one (VI century BCE): these remains — including some beautiful, early local ceramics and weapons— witness the birth and development of the Samnite ethnos.
 
@@ -41,7 +41,7 @@ Room I exhibits findings from the **Castel Baronia Necropolis**, the most ancien
 
 ### Room two.
 
-> <mark style="background-color:yellow;">«The two necropolises found in Carife witness a moment of great economic and political power: the IV century BCE. It was then that the Saminites came in contact with the Romans: after engaging in pacific commercial relationships, the two civilizations eventually came up against each other. The resulting conflict ultimately led to the Roman conquest of the area.»</mark>
+> <mark style="background-color:yellow;">«The two necropolises found in Carife witness a moment of great economic and political power: the</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**IV century BCE**</mark><mark style="background-color:yellow;">. It was then that the Saminites came in contact with the Romans: after engaging in pacific commercial relationships, the two civilizations eventually came up against each other. The resulting conflict ultimately led to the Roman conquest of the area.»</mark>
 
 The second room houses archaeological findings from two necropolises in Carife: in particular, they were unearthed in the localities of **Piano La Sala** and **Addolorata**, after which they are named.
 
@@ -49,7 +49,7 @@ The _necropolis of Piano la Sala_ was discovered on the bottom of Ufita valley, 
 
 The _necropolis of Addolorata_ is more recent: it dates back to the IV BCE and is located in the upper Ufita valley — a dominant position overlooking the river. It mainly contained chamber tombs made of limestone slabs forming a room with a sloping roof (some of them featured an access corridor known as dromos).
 
-The monumentality of these tombs — along with the luxurious grave goods archaeologists found inside— proves that they were **aristocratic burials**. In the IV century BCE Samnite people — and the tribe of Hirpini in particular— had in fact gained a sound economic and political power, dominated central-southern Italy, stood up to the colonies of Magna Graecia, and was about to meet the Romans — initially as commercial partners and later as enemies in a two-centuries-lasting war.
+The monumentality of these tombs — along with the luxurious grave goods archaeologists found inside— proves that they were **aristocratic burials**. In the IV century BCE Samnite people — and the tribe of Hirpini in particular— had in fact gained a sound economic and political power, dominated central-southern Italy, stood up to the colonies of Magna Graecia, and were about to meet the Romans — initially as commercial partners and later as enemies in a two-centuries-lasting war.
 
 ![](<../.gitbook/assets/image (1).png>)
 
@@ -80,7 +80,7 @@ In addition, as Mr. Castaldo pointed out, **no regular guides’ service** is pr
 
 > <mark style="background-color:yellow;">«The necropolis of Addolorata is important and interesting, since no other necropolis can be visited in Campania, apart from the fourth-century tombs of the amphitheatre of Capua, Santa Maria Capua Vetere. »</mark>
 
-Despite its historical relevance, **bureaucratic matters** make actual access to the archaeological area in Carife problematic. While the Museum is managed by the municipality of Carife, in fact, the archaeological site is under the jurisdiction of the **Archaeological Superintendence**. It is therefore impossible for the Museum to make any kind of intervention in the area, which is nonetheless badly maintained and not conforming to the required and desirable standards for visitor’s access. However, the Museum holds the keys of the site, and opens it up for interested visitors — under the staff’s keen eye, of course. Despite being extremely close to each other (500 metres) and deeply connected, the Museum and the sites belong to different and currently incompatible dimensions: <mark style="background-color:yellow;">«Geographical closeness does not coincide with regulatory proximity»,</mark> as Mr. Castaldo puts it.
+Despite its historical relevance, **bureaucratic matters** make actual access to the archaeological area in Carife problematic. While the Museum is managed by the municipality of Carife, in fact, the archaeological site is under the jurisdiction of the **Archaeological Superintendence**. It is therefore impossible for the Museum to make any kind of intervention in the area, which is nonetheless badly maintained and not conforming to the required and desirable standards for visitors' access. However, the Museum holds the keys of the site, and opens it up for interested visitors — under the staff’s keen eye, of course. Despite being extremely close to each other (500 metres) and deeply connected, the Museum and the site belong to different and currently incompatible dimensions: <mark style="background-color:yellow;">«Geographical closeness does not coincide with regulatory proximity»,</mark> as Mr. Castaldo puts it.
 
 ## The visitors.
 
@@ -96,13 +96,13 @@ In addition to the youngest, the museum is mainly visited by local **history/arc
 
 > <mark style="background-color:yellow;">«The territory of Baronia is extremely rich, archaeologically speaking: currently, the museum tells a small chronological span, if compared to the historical relevance of the area. »</mark>
 
-The Museum’s exhibits cover a narrow timeframe: exposed materials belong to the **VI, V, and IV centuries BCE**, and from the beginnings of the Roman age. Its deposit, though, stores findings from the prehistoric era, as well as much more material from the three necropolises and from a Roman Villa. Finally, the **Hellenistic** and **Roman necropolises** which have been unearthed in the surrounding area have not been studied or exhibited at all.
+The Museum’s exhibits cover a narrow timeframe: exposed materials belong to the **VI, V, and IV centuries BCE**, and from the beginnings of the Roman age. Its deposit, though, stores findings from the prehistoric era, as well as much more material from the three necropolises and from a Roman Villa. Finally, the **Hellenistic** and **Roman** necropolises which have been unearthed in the surrounding area have not been studied or exhibited at all.
 
 ### Digitising.
 
 The **University of Salerno** is testing a new 3D portable scanner on some materials in the Museum. It would be possible to:
 
-* View the materials by placing them in a context (VR or AR);
+* Use the obtained 3D models to reconstruct the context in which the objects were found/ to which they originally belonged (VR or AR);
 * Use a 3D printer to reproduce the finds, to be enjoyed by blind visitors and others.
 
 Unfortunately, the bureaucratic and funding times are long.
@@ -113,6 +113,6 @@ Considering the archaeological richness of the territory, an archaeological walk
 
 ## Footnotes.
 
-\[^1] He was at the top of the Superintendence of the provinces of Avellino, Salerno and Benevento for a while.
+\[^1] He was chief of the Superintendence of the provinces of Avellino, Salerno and Benevento for some years.
 
 \[^2] The locations are four: Castel Baronia (Necropolis of Serra di Marco, room one); Carife (the two necropolises of Piano la Sala and Addolorata, room two); Tierzi (locality in Carife, Roman furnaces, room three).

@@ -19,7 +19,7 @@ We proceeded to identify three of the related MAC’s assets:
 
 * **Exhibits**;
 * **Educational activities**;
-* **Outreach activities**: these include any kind of project aimed at disseminating knowledge and understanding, such as the above-mentioned archaeological walks.
+* **Outreach activities**: these include any kind of project aimed at disseminating knowledge and understanding, such as the above-mentioned _archaeological walks_.
 
 We then focused on the **institutional goals** Mr. Castaldo brought to our attention.
 
@@ -31,7 +31,7 @@ These include:
 * **Increasing visitors’ number**;
 * **Using assets in new — more informative — ways**.
 
-In addition — as the ongoing Unisa digitization project demonstrates — MAC is also concerned about **digitising and acquiring assets**. Mr. Castaldo’s words also revealed an interest in increasing **visitors’ participation and changing users’ perspective** on local history — e.g. deconstructing the false premise that Samnites were no more than shepherds and warriors.
+In addition — as the ongoing Unisa digitization project demonstrates — MAC is also concerned with **digitising** and **acquiring assets**. Mr. Castaldo’s words also revealed an interest in increasing **visitors’ participation** and **changing users’ perspective** on local history — e.g. deconstructing the false premise that Samnites were no more than shepherds and warriors.
 
 Finally, we turned to consider MAC’s paramount **goal** — increasing educational activities — and its related **users** and **assets**: school kids and exhibits, respectively.
 
@@ -109,7 +109,7 @@ In order to implement our prototype, we needed:
 
 The next step was to reflect on the museological approach we intended to adopt and implement in our application.
 
-The MAC holds and manages culturally valuable objects telling the story of pre-Roman Baronia. However, objects do not speak by themselves: since their historical and archaeological importance is not self-evident, it must be properly expressed and communicated to the laymen. Storytelling (as we may say) thus becomes an urgent matter, especially for museums which, like MAC does, hold education and dissemination as their first goal.
+The MAC holds and manages culturally valuable objects telling the story of pre-Roman Baronia. However, **objects do not speak by themselves**: since their historical and archaeological importance is not self-evident, it must be properly expressed and communicated to the laymen. Storytelling (as we may say) thus becomes an urgent matter, especially for museums which, like MAC does, hold education and dissemination as their first goal.
 
 As we read in the museum website, in fact:
 
@@ -133,7 +133,7 @@ In order to do so, we kept in consideration the concept of **musealisation**; as
 
 The musealisation process eradicates objects from their original context:
 
-> <mark style="background-color:yellow;">«musealisation begins with a phase of separation (Malraux, 1951) or of suspension (Déotte, 1986): objects or things (</mark><mark style="background-color:yellow;">**real things**</mark><mark style="background-color:yellow;">) are separated from their original context to be studied as documents representing the reality to which they formerly belonged.»</mark>[<mark style="background-color:yellow;">\[^7\]</mark>](concept.md#footnotes.)<mark style="background-color:yellow;"></mark>
+> <mark style="background-color:yellow;">«Musealisation begins with a phase of separation (Malraux, 1951) or of suspension (Déotte, 1986): objects or things (</mark><mark style="background-color:yellow;">**real things**</mark><mark style="background-color:yellow;">) are separated from their original context to be studied as documents representing the reality to which they formerly belonged.»</mark>[<mark style="background-color:yellow;">\[^7\]</mark>](concept.md#footnotes.)<mark style="background-color:yellow;"></mark>
 
 This re-contextualization – especially when the youngest are involved – can be misleading: it risks to result in the false perception that objects were ‘born’ musealised and to conceal the essence of the _musealia_ as _<mark style="background-color:yellow;">«cose vere»</mark>_. Our idea was thus to stress the link between musalised objects and their original context and use by telling their own, peculiar story.
 
@@ -166,7 +166,7 @@ Our main goal being education and our idea of education being that of an active 
 
 **Authenticity**: meaningfulness can be powered by a sense of presence and realism. We thus created three fictional but lifelike characters to guide the visitors through their experience. Each of the three will make some requests to the user: the nature and purpose of the requests will vary depending on each of the characters’ personalities. In this way, a sense of genuinity and verisimilitude is created.
 
-Of course, characters’ design strongly relies on **language and narrative**: each of the three characters’ way of speaking will mirror their personality, and to each of them a different and peculiar narrative will be assigned.
+Of course, characters’ design strongly relies on **language** and **narrative**: each of the three characters’ way of speaking will mirror their personality, and to each of them a different and peculiar narrative will be assigned.
 
 ## Footnotes.
 
