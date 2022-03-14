@@ -6,8 +6,6 @@ To have a clearer overview of all the information gathered through the interview
 
 As a first step, we decided to work on our context by making use of ideation cards, identifying — on the basis of our interview and research — the **MAC’s key audiences, its assets, and goals**.
 
-![](https://lh6.googleusercontent.com/eUFQ08MUUeLxoEQNK-zP7rleVZiexzMRazbiWW\_911rX6OWnpCIiFiOSgL92wfho5OMe-Sx\_KCl1-x\_h92U6q2zhn8xZOPkAZZI2DJOy9Ru6ing3tCaUhpzZ2OqYSw)
-
 As one can see above, we identified four target users:&#x20;
 
 * **Researchers**: i.e. scholars or connoisseurs interested in deepening their understanding of the Hirpini Samnites through an in situ investigation.&#x20;
@@ -16,8 +14,6 @@ As one can see above, we identified four target users:&#x20;
 * **Local visitors coming from the surrounding areas**: they are casual customers, local history lovers or potential users. We proceeded to identify three of the related MAC’s assets: Exhibits; Educational activities Outreach activities: these include any kind of project aimed at disseminating knowledge and understanding, such as the above-mentioned archaeological walks.
 
 We then focused on the **institutional goals** Mr. Castaldo brought to our attention.&#x20;
-
-![](https://lh4.googleusercontent.com/\_v6-XQpBPXTa3mqV1u4eIK7GvcjCuFNKe4HxFOBsb2hrKraYrQe-PlJ5DT1gcE2OR7sTMVlJ0I37YNj4YhK19su\_PKsM9g0uvwNFmyrI9G0lxKJVu0OcuC0lpM8prw)
 
 These include:&#x20;
 
@@ -28,8 +24,6 @@ These include:&#x20;
 In addition, as the interview revealed and the Unisa digitization project currently ongoing shows, MAC is also concerned about **digitising and acquiring assets, increasing visitors’ participation and changing users’ perspective on local history** — e.g. deconstructing the false premise that Samnites were no more than shepherds and warriors.
 
 Finally, we turned to consider MAC’s paramount **goal** — increasing educational activities — and its related **users** and **assets**: school kids and exhibits, respectively.
-
-![](https://lh5.googleusercontent.com/0UIpJ72heB76zTLr7hm4sBwlS0Vi88OIWws9Caaa8Vewlpj65sFX8ePP2s17UvVzzfbVqAlx91Tq3oqgc459pxXrjmYqe4QmZ-UJIHFuJMZbmufQ-EVWsMYmiImHeg)
 
 To this regard we identified some motivations:&#x20;
 
@@ -63,10 +57,6 @@ Here are our personas:
 
 1. Chiara, a digital-native local student in her teens.
 
-![Emma, a scholar in her 30s. She is looking for new perspectives on the Samnites’ culture. Being a researcher, her technological skills are above averageAlfonso, a middle-aged archeology enthusiast. He’s an intermittent/casual user, someone who uses technology daily, but never becomes an expert;](https://lh4.googleusercontent.com/X2J63orXQ--CwMlDSzb1SNB-e7UAF7enFfo9VSe80A3e55ED7h8-d0hpbd7-fW4Eg49BeBUppL-2lCH0i7CGnblaKyYlKKUEwIF5N0C4kPoQF6kFoH5sBTWRm9VFXg)
-
-Gennaro, a novice user in his 60s, not particularly skilled with technology.
-
 ## Conceptual map.
 
 Having clearly defined some ideas and goals, we thoroughly discussed about how to put it all together. We finally decided to implement an application prototype. A **smartphone app**, in fact, presents the following **advantages and potentialities**:&#x20;
@@ -86,8 +76,6 @@ In order to implement our prototype, we needed:&#x20;
 * A _prototyping tool_: we made use of **Figma**, a collaborative online-based editor, for creating graphic contents (e.g. the conceptual maps, the personas, the avatars, the mockup presentation) and for prototyping the interactive guide;&#x20;
 * A _mockup tool_: we chose **Balsamiq** for the app’s wireframe.&#x20;
 * A _graphic editor_: **Adobe Photoshop** for the visual elements and **The Sims 4** for character design.
-
-![](https://lh5.googleusercontent.com/DbfPh6HLrFUbfUjqUTwvb93FlJDXop8QLYiYAWImKnsUkFJbzpf5dRUSAUupuXSgpJa2JXjMLI-1Uft7RF2Ja9eREzTvJcarROwBHq2\_pRky049Mxoqp8V7WmqJAxw)
 
 ## Museological approach.
 
