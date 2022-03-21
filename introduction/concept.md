@@ -111,31 +111,31 @@ In order to implement our prototype, we needed:
 
 The next step was to reflect on the museological approach we intended to adopt and implement in our application.
 
-The MAC holds and manages culturally valuable objects telling the story of pre-Roman Baronia. However, **objects do not speak by themselves**: since their historical and archaeological importance is not self-evident, it must be properly expressed and communicated to the laymen. Storytelling (as we may say) thus becomes an urgent matter, especially for museums which, like MAC does, hold education and dissemination as their first goal.
+The MAC holds and manages culturally valuable objects telling the story of pre-Roman Baronia. However, **objects do not speak by themselves**: since their historical and archaeological importance is not self-evident, they must be properly expressed and communicated to the laymen. Storytelling (as we may say) thus becomes an urgent matter, especially for museums that, as MAC does, hold education and dissemination as their first goal.
 
-As we read in the museum website, in fact:
+As we read on the museum website, in fact:
 
-> <mark style="color:yellow;">«Il progetto scientifico e di allestimento è stato finalizzato prevalentemente alla conoscenza della ricchezza archeologica del territorio seguendo uno standard museale di tipo tradizionale che ha puntato soprattutto alla valorizzazione delle informazioni scientifiche e didattiche.»</mark>[<mark style="color:yellow;"><mark style="background-color:yellow;">\[^3\]<mark style="background-color:yellow;"></mark>](concept.md#footnotes.)<mark style="color:yellow;"><mark style="background-color:yellow;"><mark style="background-color:yellow;"></mark>
+> <mark style="color:yellow;">«Il progetto scientifico e di allestimento è stato finalizzato prevalentemente alla conoscenza della ricchezza archeologica del territorio seguendo uno standard museale di tipo tradizionale che ha puntato soprattutto alla valorizzazione delle informazioni scientifiche e didattiche.»</mark>[<mark style="color:yellow;">\[^3\]</mark>](concept.md#footnotes.)<mark style="color:yellow;"></mark>
 
-This considered, our project began as an inductive process: we tried to investigate as thoroughly as possible the museum's peculiarities, assets, lacks and needs, and tried to design an application which was specifically tailored for them.
+This considered, our project began as an inductive process: we tried to investigate as thoroughly as possible the museum's peculiarities, assets, lacks, and needs and tried to design an application that was specifically tailored for them.
 
 In defining the museum needs, we considered **communication** to be:
 
-> <mark style="color:yellow;">«\[...] both the presentation of the results of research undertaken into the collections (catalogues, articles, conferences, exhibitions) and as the provision of information about the objects in the collections (the permanent exhibition and the information connected with it). This interpretation sees the exhibition as an integral part of the research process \[...]»</mark>[<mark style="color:yellow;"><mark style="background-color:yellow;">\[^4\]<mark style="background-color:yellow;"></mark>](concept.md#footnotes.)<mark style="color:yellow;"><mark style="background-color:yellow;"><mark style="background-color:yellow;"></mark>
+> <mark style="color:yellow;">«\[...] both the presentation of the results of research undertaken into the collections (catalogues, articles, conferences, exhibitions) and as the provision of information about the objects in the collections (the permanent exhibition and the information connected with it). This interpretation sees the exhibition as an integral part of the research process \[...]»</mark>[\[^4\]](concept.md#footnotes.)
 
-This definition is pertinent to our case since, as we have seen, the museum’s exposition is far from satisfactory when it comes to informativity: **no guides, no suggested paths and that it is impossible to visit the archaeological area**. The notion of education, on the other side,
+This definition is pertinent to our case since, as we have seen, the museum’s exposition is far from satisfactory when it comes to informativity: **no guides, no suggested paths, and it is impossible to visit the archaeological area**. The notion of education, on the other side,
 
-> <mark style="color:yellow;">«\[...] is connected with the notion of awakening, which aims to arouse curiosity, to lead to questioning and develop the capacity to think. \[...] It is a development process which presupposes change and transformation rather than conditioning and inculcation, notions it tends to oppose. »</mark>[<mark style="background-color:yellow;">\[^5\]</mark>](concept.md#footnotes.)<mark style="background-color:yellow;"></mark>
+> <mark style="color:yellow;">«\[...] is connected with the notion of awakening, which aims to arouse curiosity, to lead to questioning and develop the capacity to think. \[...] It is a development process which presupposes change and transformation rather than conditioning and inculcation, notions it tends to oppose. »</mark>[\[^5\]](concept.md#footnotes.)
 
-Informativity, thus, is a necessary but not sufficient condition for education, especially as far as the youngest are concerned. Education – as it emerges from the above definition – is not a passive process, it is an activity: keeping this in mind, we tried to design an impactful experience in which students (and not only) could feel **emotionally involved**.
+Informativity, thus, is a necessary but not sufficient condition for education, especially as far as the youngest is concerned. Education – as it emerges from the above definition – is not a passive process, it is an activity: keeping this in mind, we tried to design an impactful experience in which students (and not only) could feel **emotionally involved**.
 
 In order to do so, we kept in consideration the concept of **musealisation**; as it has been pointed out, in fact:
 
-> <mark style="color:yellow;">«The process of musealisation does not consist of taking an object to place it within the physical confines of the museum \[...]. Through the change of context and the process of selection and display, the status of the object changes. »</mark>[<mark style="color:yellow;"><mark style="background-color:yellow;">\[^6\]<mark style="background-color:yellow;"></mark>](concept.md#footnotes.)<mark style="color:yellow;"><mark style="background-color:yellow;"><mark style="background-color:yellow;"></mark>
+> <mark style="color:yellow;">«The process of musealisation does not consist of taking an object to place it within the physical confines of the museum \[...]. Through the change of context and the process of selection and display, the status of the object changes. »</mark>[\[^6\]](concept.md#footnotes.)
 
 The musealisation process eradicates objects from their original context:
 
-> <mark style="color:yellow;">«Musealisation begins with a phase of separation (Malraux, 1951) or of suspension (Déotte, 1986): objects or things (real things) are separated from their original context to be studied as documents representing the reality to which they formerly belonged.»</mark>[<mark style="background-color:yellow;">\[^7\]</mark>](concept.md#footnotes.)<mark style="background-color:yellow;"></mark>
+> <mark style="color:yellow;">«Musealisation begins with a phase of separation (Malraux, 1951) or of suspension (Déotte, 1986): objects or things (real things) are separated from their original context to be studied as documents representing the reality to which they formerly belonged.»</mark>[\[^7\]](concept.md#footnotes.)
 
 This re-contextualization – especially when the youngest are involved – can be misleading: it risks to result in the false perception that objects were ‘born’ musealised and to conceal the essence of the _musealia_ as _<mark style="color:yellow;">«cose vere»</mark>_. Our idea was thus to stress the link between musalised objects and their original context and use by telling their own, peculiar story.
 
@@ -145,13 +145,13 @@ This considered, we devised an application and an interactive path guiding the u
 | -------- | ------------------- | ----------- | ------ | ---------------- | ---------------------------------- | ---------------------- |
 | B        | Education           | Closed      | Closed | Selected objects | Real with virtua + Virtual on real | Not allowed            |
 
-The app’s **interaction** and **space** are closed since the visitor will be involved in a treasure hunt across the museum’s holdings, with ‘clues’ leading from one artefact to the next in a step-by-step process. The ‘participants’ will thus neither choose from which finding to start nor will the path be still meaningful if any intermediate step is skipped.
+The app’s **interaction** and **space** are closed since the visitor will be involved in a treasure hunt across the museum’s holdings, with ‘clues’ leading from one artifact to the next in a step-by-step process. The ‘participants’ will thus neither choose from which finding to start nor will the path be still meaningful if any intermediate step is skipped.
 
 The interactive path’s **content** will be made up of a limited number of objects, chosen to be representative of the whole collection.
 
-According to the taxonomy depicting the possible combinations of **virtuality and reality** developed by Beltramini and Gaiani[\[^9\]](concept.md#footnotes.), the application will be considered to be part of the **‘real with virtual’** category, since <mark style="color:yellow;">«this corresponds to all the museums mixing real exhibitions of real objects with interactive systems such as sensitive tables, sensitive walls, sensitive floors and interactive multimedia.»</mark>[<mark style="background-color:yellow;">\[^10\]</mark>](concept.md#footnotes.)<mark style="background-color:yellow;"></mark>
+According to the taxonomy depicting the possible combinations of **virtuality and reality** developed by Beltramini and Gaiani[\[^9\]](concept.md#footnotes.), the application will be considered to be part of the **‘real with virtual’** category, since <mark style="color:yellow;">«this corresponds to all the museums mixing real exhibitions of real objects with interactive systems such as sensitive tables, sensitive walls, sensitive floors, and interactive multimedia.»</mark>[\[^10\]](concept.md#footnotes.)
 
-In addition, since – as detailed further – AR will be employed, the application can be also referred to the category of ‘virtual on real’, which involves <mark style="color:yellow;">«a digital reconstruction of real space that can be browsed and explored.»</mark>[<mark style="background-color:yellow;">\[^11\]</mark>](concept.md#footnotes.)<mark style="background-color:yellow;"></mark>
+In addition, since – as detailed further – AR will be employed, the application can be also referred to the category of ‘virtual on real’, which involves <mark style="color:yellow;">«a digital reconstruction of real space that can be browsed and explored.»</mark>[\[^11\]](concept.md#footnotes.)
 
 Finally, **visitors’ contributions** are not allowed.
 
@@ -164,11 +164,11 @@ Our main goal being education and our idea of education being that of an active 
 * Make the user feel actively engaged, challenged, involved;
 * Create a sense of purpose, based on some tasks to be fulfilled (_i.e._ ‘to find something’);
 * Create a sense of expectation and curiosity;
-* Stimulate cooperation, since the game can be played in team;
+* Stimulate cooperation, since the game can be played in teams;
 
-**Authenticity**: meaningfulness can be powered by a sense of presence and realism. We thus created three fictional but lifelike characters to guide the visitors through their experience. Each of the three will make some requests to the user: the nature and purpose of the requests will vary depending on each of the characters’ personalities. In this way, a sense of genuinity and verisimilitude is created.
+**Authenticity**: meaningfulness can be powered by a sense of presence and realism. We thus created three fictional but lifelike characters to guide the visitors through their experiences. Each of the three will make some requests to the user: the nature and purpose of the requests will vary depending on each of the characters’ personalities. In this way, a sense of genuinity and verisimilitude is created.
 
-Of course, characters’ design strongly relies on **language** and **narrative**: each of the three characters’ way of speaking will mirror their personality, and to each of them a different and peculiar narrative will be assigned.
+Of course, characters’ design strongly relies on **language** and **narrative**: each of the three characters’ way of speaking will mirror their personality, and to each of them, a different and peculiar narrative will be assigned.
 
 ## Footnotes.
 

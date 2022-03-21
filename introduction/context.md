@@ -35,7 +35,7 @@ Today, its three rooms host the rich ceramics and precious grave goods coming fr
 
 > <mark style="color:yellow;">«All throughout the</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**VI century BCE**</mark><mark style="color:yellow;">, Baronia was a crossroad of political and economic relations between the Tyrrhenian and the Adriatic coasts. By the end of this century the Samnite ethnos was born.»</mark>
 
-Room I exhibits findings from the **Castel Baronia Necropolis**, the most ancient one (VI century BCE): these remains — including some beautiful, early local ceramics and weapons— witness the birth and development of the Samnite ethnos.
+**Room I** exhibits findings from the **Castel Baronia Necropolis**, the most ancient one (VI century BCE): these remains — including some beautiful, early local ceramics and weapons— witness the birth and development of the Samnite ethnos.
 
 ![](<../.gitbook/assets/image (2) (1).png>)
 
@@ -43,7 +43,7 @@ Room I exhibits findings from the **Castel Baronia Necropolis**, the most ancien
 
 > <mark style="color:yellow;">«The two necropolises found in Carife witness a moment of great economic and political power: the</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**IV century BCE**</mark><mark style="color:yellow;">. It was then that the Saminites came in contact with the Romans: after engaging in pacific commercial relationships, the two civilizations eventually came up against each other. The resulting conflict ultimately led to the Roman conquest of the area.»</mark>
 
-The second room houses archaeological findings from two necropolises in Carife: in particular, they were unearthed in the localities of **Piano La Sala** and **Addolorata**, after which they are named.
+**Room II** houses archaeological findings from two necropolises in Carife: in particular, they were unearthed in the localities of **Piano La Sala** and **Addolorata**, after which they are named.
 
 The _necropolis of Piano la Sala_ was discovered on the bottom of Ufita valley, close to the river: it dates back to V BCE and consists of pit tombs.
 
@@ -57,7 +57,7 @@ The monumentality of these tombs — along with the luxurious grave goods archae
 
 > <mark style="color:yellow;">«Archaeological evidence testifies to the disappearance of the Hirpinian civilization: the Roman furnaces tell us about the moment in which</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Irpinia became Roman**</mark><mark style="color:yellow;">. »</mark>
 
-The third space is dedicated to the excavation of an artisan complex intended for the production of bricks and ceramics, active between the **late Republican age and the Imperial age** (I BCE). This room is also used as an educational space, enriched by the presence of the **1:1 scale reconstruction of the chamber tomb number 7** (IV century BCE), one of the monumental burials discovered in the archaeological area of ​​the Addolorata.
+**Room III** is dedicated to the excavation of an artisan complex intended for the production of bricks and ceramics, active between the **late Republican age and the Imperial age** (I BCE). This room is also used as an educational space, enriched by the presence of the **1:1 scale reconstruction of the chamber tomb number 7** (IV century BCE), one of the monumental burials discovered in the archaeological area of ​​the Addolorata.
 
 ![](<../.gitbook/assets/image (4).png>)
 
@@ -80,13 +80,13 @@ In addition, as Mr. Castaldo pointed out, **no regular guides’ service** is pr
 
 > <mark style="color:yellow;">«The necropolis of Addolorata is important and interesting, since no other coeval necropolis can be visited in Campania, apart from the IV-century tombs of the amphitheatre of Capua, Santa Maria Capua Vetere.»</mark>
 
-Despite its historical relevance, **bureaucratic matters** make actual access to the archaeological area in Carife problematic. While the Museum is managed by the municipality of Carife, in fact, the archaeological site is under the jurisdiction of the **Archaeological Superintendence**. It is therefore impossible for the Museum to make any kind of intervention in the area, which is nonetheless badly maintained and not conforming to the required and desirable standards for visitors' access. However, the Museum holds the keys of the site, and opens it up for interested visitors — under the staff’s keen eye, of course. Despite being extremely close to each other (500 metres) and deeply connected, the Museum and the site belong to different and currently incompatible dimensions: <mark style="color:yellow;">«Geographical closeness does not coincide with regulatory proximity»</mark><mark style="background-color:yellow;">,</mark> as Mr. Castaldo puts it.
+Despite its historical relevance, **bureaucratic matters** make actual access to the archaeological area in Carife problematic. While the Museum is managed by the municipality of Carife, in fact, the archaeological site is under the jurisdiction of the **Archaeological Superintendence**. It is therefore impossible for the Museum to make any kind of intervention in the area, which is nonetheless badly maintained and not conforming to the required and desirable standards for visitors' access. However, the Museum holds the keys of the site, and opens it up for interested visitors — under the staff’s keen eye, of course. Despite being extremely close to each other (500 meters) and deeply connected, the Museum and the site belong to different and currently incompatible dimensions: <mark style="color:yellow;">«Geographical closeness does not coincide with regulatory proximity»</mark><mark style="background-color:yellow;">,</mark> as Mr. Castaldo puts it.
 
 ## The visitors.
 
 > <mark style="color:yellow;">«Most of the visitors are school students: in addition, local history enthusiasts occasionally come to visit the Museum. »</mark>
 
-Visitors are mainly **students** from middle and high school: the Museum management is especially concerned about the educational potential of its holdings. As we have already pointed out, in fact, part of the third room is dedicated to a tomb reproduction for learning purposes. To further enhance the **educational experience** at the Museum, Mr. Castaldo is looking forward to setting up a professional and specialised welcome and guides’ service for schools, despite the scarcity of financial resources.
+Visitors are mainly **students** from middle and high school: the Museum management is especially concerned about the educational potential of its holdings. As we have already pointed out, in fact, part of the third room is dedicated to a tomb reproduction for learning purposes. To further enhance the **educational experience** at the Museum, Mr. Castaldo is looking forward to setting up a professional and specialized welcome and guides’ service for schools, despite the scarcity of financial resources.
 
 In addition to the youngest, the museum is mainly visited by local **history/archaeology enthusiasts or connoisseurs**.
 
@@ -98,7 +98,7 @@ In addition to the youngest, the museum is mainly visited by local **history/arc
 
 The Museum’s exhibits cover a narrow timeframe: exposed materials belong to the **VI, V, and IV centuries BCE**, and from the beginnings of the Roman age. Its deposit, though, stores findings from the prehistoric era, as well as much more material from the three necropolises and from a Roman Villa. Finally, the **Hellenistic** and **Roman** necropolises which have been unearthed in the surrounding area have not been studied or exhibited at all.
 
-### Digitising.
+### Digitizing.
 
 The **University of Salerno** is testing a new 3D portable scanner on some materials in the Museum. It would be possible to:
 
@@ -109,7 +109,7 @@ Unfortunately, the bureaucratic and funding times are long.
 
 ### Archaeological walks.
 
-Considering the archaeological richness of the territory, an archaeological walk throughout the Ufita valley and its sites has recently been organised. In this way, the visitors have not only had the opportunity to get to know the musealised findings materials, but also the sites where they were originally found. Unfortunately, **no indications or signalled paths** are present to guide visitors without specialised guides to address and direct them.
+Considering the archaeological richness of the territory, an archaeological walk throughout the Ufita valley and its sites has recently been organized. In this way, the visitors have not only had the opportunity to get to know the musealised findings materials, but also the sites where they were originally found. Unfortunately, **no indications or signaled paths** are present to guide visitors without specialized guides to address and direct them.
 
 ## Footnotes.
 
