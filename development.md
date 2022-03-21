@@ -19,9 +19,9 @@ We made use of two tools:
 
 ![](.gitbook/assets/asdfgh.jpg)
 
-## The user diagram.
+## The navigation map.
 
-The following diagram resumes what we have just exposed about the app’s structure and describes the **users’ interaction** with it, how they will approach it and what they will be able to do.
+The following navigation map resumes what we have just exposed about the app’s structure and describes the **users’ interaction** with it, how they will approach it and what they will be able to do.
 
 ![](.gitbook/assets/sdfdgfhgjhj.png)
 
